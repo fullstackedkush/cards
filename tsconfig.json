@@ -21,5 +21,9 @@
   },
   "include": [
     "src"
-  ]
+  ],
+  "baseUrl": "./",
+  "paths": {
+    "blackjack": ["./src/react-app-env.d.ts"]
+  }
 }
